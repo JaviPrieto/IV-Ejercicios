@@ -24,9 +24,15 @@ Verificamos que tenemos la clave con la figerprint:
 
 ![img-fingerprint](https://github.com/JaviPrieto/IV-Ejercicios/blob/master/Tema3.Virtualizacion-ligera-usando-contenedores/imagenes/fingerprint.png)
 
-Instalamos la ultima versión de Docker.
+Instalamos la ultima versión de Docker:
 
 ![img-estable](https://github.com/JaviPrieto/IV-Ejercicios/blob/master/Tema3.Virtualizacion-ligera-usando-contenedores/imagenes/docker-install.png)
+
+Probamos si está instalado y funciona correctamente:
+
+![img-hellowolrd](https://github.com/JaviPrieto/IV-Ejercicios/blob/master/Tema3.Virtualizacion-ligera-usando-contenedores/imagenes/hello-world.png)
+
+
 
 
 
