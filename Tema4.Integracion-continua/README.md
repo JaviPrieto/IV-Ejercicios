@@ -11,11 +11,11 @@ Una vez dentro nos registramos si aún no tenemos cuenta, en Sign Up.
 
 Lo siguiente es conectar nuestro repositorio Github con Travis CI:
 
-![img-github-travis](https://github.com/JaviPrieto/IV-Ejercicios/tree/master/Tema4.Integracion-continua/imagenes/github-travis.png)
+![img-github-travis](https://github.com/JaviPrieto/IV-Ejercicios/blob/master/Tema4.Integracion-continua/imagenes/github-travis.png)
 
 Una vez nos hemos dado de alta y hemos activado el repositorio en el que vamos a aplicar la integración continua, tenemos que crear un fichero de configuración para ejecutar la integración y tenemos que añadirlo a nuestro repositorio.
 
-![img-travis](https://github.com/JaviPrieto/IV-Ejercicios/tree/master/Tema4.Integracion-continua/imagenes/travis.png)
+![img-travis](https://github.com/JaviPrieto/IV-Ejercicios/blob/master/Tema4.Integracion-continua/imagenes/travis.png)
 
 
 ## Ejercicio 2
@@ -38,7 +38,7 @@ script: make test
 
 Podemos observar que funciona con la siguiente imagen:
 
-![img-integracion](https://github.com/JaviPrieto/IV-Ejercicios/tree/master/Tema4.Integracion-continua/imagenes/integracion.png)
+![img-integracion](https://github.com/JaviPrieto/IV-Ejercicios/blob/master/Tema4.Integracion-continua/imagenes/integracion.png)
 
 Pero me está dando error, luego procedo a arreglarlo:
 
